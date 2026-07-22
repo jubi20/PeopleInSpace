@@ -4,7 +4,7 @@ import XCTest
 
 final class LocationTests: XCTestCase {
     func testLocationKeepsProvidedCoordinate() {
-        let coordinate = CLLocationCoordinate2D(latitude: 54.5074, longitude: -0.1278)
+        let coordinate = CLLocationCoordinate2D(latitude: 53.5074, longitude: -0.1278)
 
         let location = Location(coordinate: coordinate)
 
