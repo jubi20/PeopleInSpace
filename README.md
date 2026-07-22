@@ -1,5 +1,7 @@
 # PeopleInSpace
 
+This is a cool project
+
 ![kotlin-version](https://img.shields.io/badge/kotlin-2.4.0-blue?logo=kotlin)
 
 **Kotlin Multiplatform** project with SwiftUI, Jetpack Compose, Compose for Wear OS, Compose for Desktop and Compose for Web clients along with Ktor backend. Currently running on
