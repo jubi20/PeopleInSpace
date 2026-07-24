@@ -1,6 +1,6 @@
 # PeopleInSpace
 
-My new project
+
 
 ![kotlin-version](https://img.shields.io/badge/kotlin-2.4.0-blue?logo=kotlin)
 
